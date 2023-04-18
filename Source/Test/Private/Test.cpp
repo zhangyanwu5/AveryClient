@@ -4,7 +4,6 @@
 
 void FTestModule::StartupModule()
 {
-    
 }
 
 void FTestModule::ShutdownModule()
